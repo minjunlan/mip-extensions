@@ -1,0 +1,14 @@
+{
+    "name": "mip-lan-searchbar",
+    "version": "1.0.0",
+    "description": "组件介绍",
+    "contributors": [
+        {
+            "name": "lanmj2004",
+            "email": "284517207@qq.com"
+        }
+    ],
+    "engines": {
+        "mip": ">=1.1.0"
+    }
+}
